@@ -44,4 +44,4 @@ A machine learning project using Python and scikit-learn to predict student fina
 ---
 
 ## Notebook
-[Open Google Colab Notebook]((https://colab.research.google.com/drive/1dXViwd9tSaanXcxEf206ydUoYlJK-jZT?usp=sharing))
+[Open Google Colab Notebook]([(https://colab.research.google.com/drive/1dXViwd9tSaanXcxEf206ydUoYlJK-jZT?usp=sharing)])
